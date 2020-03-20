@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Blog Application</string>
+    <string name="user_id">Email ID</string>
+    <string name="pass_id">Password</string>
+    <string name="login_id">Login</string>
+    <string name="create_id">Create Account</string>
+    <string name="signout_id">Sign Out</string>
+    <string name="addpost_id">Add Post</string>
+</resources>
